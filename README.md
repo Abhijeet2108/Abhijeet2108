@@ -4,6 +4,8 @@
 
 <img src="motion.gif" width="240" height="180" alt"not avail" />
 
+<p><img align="center" src="motion.gif" alt="bit" /></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeet2108&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet2108" /> </p>
 
