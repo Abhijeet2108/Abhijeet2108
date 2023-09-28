@@ -7,10 +7,7 @@
 <h2> About Me :</h2>
 <h3> I'm an aspiring 💡 Electronic and Communication Engineering 👨‍🎓 student at NCER, with a passion for programming since 2️⃣0️⃣2️⃣2️⃣. My interests span across ⌨️ data structures, algorithms, problem-solving, 🍥 design, digital art,🎶  music, and ✈️ travel. I'm eager to 🏔explore new opportunities and 🔗 connect with like-minded individuals in these diverse domains. </h3>
  
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeet2108&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet2108" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
