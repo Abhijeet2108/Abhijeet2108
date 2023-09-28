@@ -3,15 +3,11 @@
  
 
 <img src="motion.gif" width="240" height="180" alt"not avail" />
-<img src="motion.gif" width="240" height="180" alt"not avail" />
-<img src="motion.gif" width="240" height="180" alt"not avail" />
-<img src="motion.gif" width="240" height="180" alt"not avail" />
+ 
+![Motion](https://github.com/Abhijeet2108/Abhijeet2108/assets/85977829/2d68cc3f-fe8b-4dd5-88cd-edd9e30bbd9b)
 
 <p><img align="center" src="motion.gif" alt="bit" /></p>
-<p><img align="center" src="motion.gif" alt="bit" /></p>
-<p><img align="center" src="motion.gif" alt="bit" /></p>
-<p><img align="center" src="motion.gif" alt="bit" /></p>
-<p><img align="center" src="motion.gif" alt="bit" /></p>
+ 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeet2108&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet2108" /> </p>
