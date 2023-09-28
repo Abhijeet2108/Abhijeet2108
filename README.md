@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to my GitHub profile! 🚀 I'm passionate about coding, open-source projects, and collaboration. Explore my repositories and feel free to reach out if you have any questions or want to collaborate on exciting projects. Let's build together! 💻🌟</h1>
 <h3 align="center">A passionate frontend developer from PCET's NCER College Pune </h3>
-<img src="[pic_trulli.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fchrislevn%2Fchrislevn&psig=AOvVaw0rxq5Kkw3dDy0UlT7J9rv4&ust=1695965451147000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDhp-TJzIEDFQAAAAAdAAAAABAI)" alt="Italian Trulli">
+ 
 
-<img src="motion.gif"   />
+<img src="motion.gif" width="240" height="180" alt"not avail" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeet2108&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet2108" /> </p>
