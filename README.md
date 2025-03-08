@@ -1,5 +1,5 @@
  
-<h3 align="center">A passionate frontend developer from PCET's NCER College Pune </h3>
+<h3 align="center">A passionate Frontend Developer From PCET's NCER College Pune </h3>
  
 
 <p><img align="center" src="https://github.com/Abhijeet2108/Abhijeet2108/assets/85977829/2d68cc3f-fe8b-4dd5-88cd-edd9e30bbd9b "  width="1100" height="200"  alt="bit" /></p>
